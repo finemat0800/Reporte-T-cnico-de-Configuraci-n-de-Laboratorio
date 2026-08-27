@@ -8,6 +8,9 @@ elegi la opcion de la red NAT (Network Address Translation) porque puedo navegar
 
 En las capturas deje un comentario diciendo que el usuario estandar es "Trabajo 1" 
 
+4. La Red de Seguridad: Snapshot Inicial
+
+Adjunte una captura de pantalla que muestra que hice una instantanea llamada "Clean Install - Hardening applied" por si algo sucede vuelvo a iniciar desde ahi. 
 
 
 
