@@ -4,6 +4,11 @@
 
 elegi la opcion de la red NAT (Network Address Translation) porque puedo navegar a internet sin problema y descargar un software de forma segura, me ayuda a proteger mi maquina real de 2 formas haciendo un bloque de conecciones entrantes y separando de la red local fisica.
 
+2 Capa Windows: Usuarios y Actualizaciones
+
+En las capturas deje un comentario diciendo que el usuario estandar es "Trabajo 1" 
+
+
 
 
 
